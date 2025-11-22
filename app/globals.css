@@ -28,8 +28,6 @@ body {
 .animate-fade-in-up {
   animation: fadeInUp 0.8s ease-out;
 }
-
-
 /* Add to your global CSS */
 video {
   transform: translateZ(0);
